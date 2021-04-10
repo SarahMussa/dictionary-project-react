@@ -1,3 +1,21 @@
-.App-header {
+.container {
   margin: 30px auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.App-footer {
+  text-align: center;
+  margin: 30px auto;
+}
+
+.App-footer :hover {
+  color: pink;
 }
