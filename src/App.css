@@ -2,20 +2,38 @@
   margin: 30px auto;
 }
 
+body {
+  background: #c0cbd7;
+  color: #0e3140;
+}
+
 h1 {
   text-align: center;
+  font-size: 40px;
+  font-weight: bold;
 }
 
 a {
   text-decoration: none;
-  color: black;
+  color: #7794b2;
+}
+
+a:hover {
+  color: #7993af;
+}
+
+.App-header {
+  text-align: center;
+  margin: 30px auto;
+  color: #0e3140;
 }
 
 .App-footer {
   text-align: center;
   margin: 30px auto;
+  color: #0e3140;
 }
 
 .App-footer :hover {
-  color: pink;
+  color: #0e3140;
 }
